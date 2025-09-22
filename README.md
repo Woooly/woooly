@@ -8,8 +8,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=woooly&show_icons=true&locale=en&theme=dark" alt="woooly" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=woooly&&theme=dark" alt="woooly" /></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabrielmarinhosales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielmarinhosales" height="30" width="40" /></a>
